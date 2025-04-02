@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/sql/checkUserPoints.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/sql/findLoyalCustomers.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/src/main/java/org/example/sql/highestPaidEmployee.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/main/java/org/example/sql/largestBudgetProject.sql" dialect="MySQL" />
   </component>
 </project>
