@@ -31,6 +31,8 @@ public class RandomNicknameGenerator {
     public static void main(String[] args) {
         RandomNicknameGenerator generator = new RandomNicknameGenerator();
         System.out.println(generator.generateNickName());
+        Scanner sc = new Scanner(System.in);
+        int i = sc.nextInt();
     }
 }
 
