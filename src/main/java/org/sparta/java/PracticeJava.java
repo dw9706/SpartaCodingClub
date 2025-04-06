@@ -1,4 +1,4 @@
-package org.example.java;
+package org.sparta.java;
 
 public class PracticeJava {
     public static void main(String[] args) {

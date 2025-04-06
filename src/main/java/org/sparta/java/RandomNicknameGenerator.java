@@ -1,4 +1,4 @@
-package org.example.java;
+package org.sparta.java;
 
 import java.util.*;
 
